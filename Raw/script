@@ -1,0 +1,39 @@
+#!/bin/bash
+n=6;
+m=5;
+
+N=10000;
+Ntrain=$(($N/2));
+nlines=$(($n+3));
+sep=+++++++++;
+echo +++ END OF DATA +++ > eod
+
+for distr in jc mc mxc rnd rndn
+do
+  folder=generator/"$distr"_"$n"x"$m";
+  fileTrain=f."$distr"."$n"x"$m".train.txt; echo $fileTrain;
+
+  printf "TRAIN SET problems from subfolder $folder\n\n" > $fileTrain
+  for instance in $(seq 1 1 $Ntrain)
+  do
+     printf "$sep\ninstance problem.$instance\n$sep\n" > pinfo;
+     sed -n -e 2p -e "4,$nlines p" $folder/problem.$instance > tmp;
+     cat  pinfo tmp >> $fileTrain;
+  done
+  cat eod >> $fileTrain;
+
+  fileTest=f."$distr"."$n"x"$m".test.txt; echo $fileTest;
+  printf "TEST SET problems from subfolder $folder\n\n" > $fileTest
+  for instance in $(seq $(($Ntrain+1)) 1 $N)
+  do
+     printf "$sep\ninstance problem.$instance\n$sep\n" > pinfo;
+     sed -n -e 2p -e "4,$nlines p" $folder/problem.$instance > tmp;
+     cat pinfo tmp >> $fileTest
+  done
+  cat eod >> $fileTest
+
+done
+
+rm pinfo tmp eod;
+
+

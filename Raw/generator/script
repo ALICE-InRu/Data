@@ -1,0 +1,21 @@
+#!/bin/bash
+N=100000;
+n=6;
+m=5;
+jcname=jc_"$n"x"$m"; mkdir $jcname;
+mcname=mc_"$n"x"$m"; mkdir $mcname;
+mxcname=mxc_"$n"x"$m"; mkdir $mxcname;
+rndname=rnd_"$n"x"$m"; mkdir $rndname;
+rndnname=rndn_"$n"x"$m"; mkdir $rndnname;
+seed=1346165861;
+for instance in $(seq 1 1 $N)
+do
+  seed=`expr $seed + 1`;
+  #echo $seed
+  ./fspgen job-correlated $n $m $seed > $jcname/problem.$instance
+  ./fspgen machine-correlated $n $m $seed > $mcname/problem.$instance
+  ./fspgen mixed-correlated $n $m $seed > $mxcname/problem.$instance
+  ./fspgen taillard $n $m $seed > $rndname/problem.$instance
+  ./fspgen taillard $n $m $seed -durationLB=45 -durationUB=55 > $rndnname/problem.$instance
+done
+

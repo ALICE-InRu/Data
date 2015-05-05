@@ -1,0 +1,34 @@
+#!/bin/bash
+n=6;
+m=5;
+
+N=10000;
+Ntrain=$(($N/2));
+nlines=$(($n+3));
+sep=+++++++++;
+
+for distr in rnd rndn jc mc mxc 
+do
+  
+  folder="generator/$distr"_"$n"x"$m";
+  mkdir $folder 
+  fileTrain=f."$distr"."$n"x"$m".train.txt; echo $fileTrain;
+  start=4;
+  for instance in $(seq 1 1 $Ntrain)
+  do
+     end=$(($nlines+$start));
+     sed -n "$start,$end p" $fileTrain > $folder/problem.$instance 
+     start=$(($end+1));
+  done
+
+  fileTest=f."$distr"."$n"x"$m".test.txt; echo $fileTest;
+  start=4;
+  for instance in $(seq $(($Ntrain+1)) 1 $N)
+  do
+     end=$(($nlines+$start));
+     sed -n "$start,$end p" $fileTest > $folder/problem.$instance 
+     start=$(($end+1));
+  done 
+done
+
+
