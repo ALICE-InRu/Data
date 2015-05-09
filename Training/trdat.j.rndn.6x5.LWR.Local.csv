@@ -1,4 +1,4 @@
-PID,Step,Dispatch,Followed,ResultingOptMakespan,Rank,phi.proc,phi.startTime,phi.endTime,phi.jobOps,phi.arrivalTime,phi.totProc,phi.wait,phi.mac,phi.macOps,phi.macFree,phi.makespan,phi.step,phi.slotReduced,phi.slots,phi.slotsTotal,phi.wrmMac,phi.wrmJob,phi.wrmTotal
+PID,Step,Dispatch,Followed,ResultingOptMakespan,Rank,phi.proc,phi.startTime,phi.endTime,phi.jobOps,phi.arrival,phi.procTotal,phi.wait,phi.mac,phi.macOps,phi.macFree,phi.makespan,phi.step,phi.slotReduced,phi.slots,phi.slotsTotal,phi.wrmMac,phi.wrmJob,phi.wrmTotal
 1,0,0.2.0,0,461,0,55,0,55,1,0,257,0,2,1,55,55,1,0,0,0,289,257,1507
 1,0,1.2.0,0,462,1,45,0,45,1,0,252,0,2,1,45,45,1,0,0,0,289,252,1507
 1,0,2.1.0,0,461,0,55,0,55,1,0,249,0,1,1,55,55,1,0,0,0,308,249,1507
