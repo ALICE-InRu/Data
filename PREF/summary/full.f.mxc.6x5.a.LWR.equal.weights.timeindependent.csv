@@ -1,2 +1,0 @@
-Problem,NrFeat,Model,Bias,TimeIndependent,Training.Rho,NTrain,Validation.Rho,NValidation,Test.Rho,NTest
-f.mxc,16,1,equal,TRUE,2.82613,400,2.1257,100,2.77124,500

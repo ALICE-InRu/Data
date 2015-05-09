@@ -1,2 +1,0 @@
-Problem,NrFeat,Model,Bias,TimeIndependent,Training.Rho,NTrain,Validation.Rho,NValidation,Test.Rho,NTest
-j.rnd_p1mdoubled,16,1,equal,TRUE,7.12887,400,6.5799,100,7.27686,500
