@@ -1,0 +1,17 @@
+Type,NrFeat,Model,Feature,mean,Step.1
+Weight,16,1,phi.proc,NA,0.11639087266444884
+Weight,16,1,phi.startTime,NA,-0.35640114935600187
+Weight,16,1,phi.endTime,NA,-0.36713482927234109
+Weight,16,1,phi.jobOps,NA,0.16519602400405611
+Weight,16,1,phi.arrival,NA,-0.0075632773526632
+Weight,16,1,phi.wait,NA,-0.017038326717171461
+Weight,16,1,phi.mac,NA,-0.026630911252918384
+Weight,16,1,phi.macOps,NA,-0.18507625813805267
+Weight,16,1,phi.macFree,NA,-0.398529062607557
+Weight,16,1,phi.makespan,NA,0.00680517339821673
+Weight,16,1,phi.slotReduced,NA,0.44793884564888053
+Weight,16,1,phi.slots,NA,0.024576568445765674
+Weight,16,1,phi.slotsTotal,NA,0.14455563139806907
+Weight,16,1,phi.wrmMac,NA,-0.20185974358016257
+Weight,16,1,phi.wrmJob,NA,0.41296845042461422
+Weight,16,1,phi.wrmTotal,NA,0.067936515944921769
