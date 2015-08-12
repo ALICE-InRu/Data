@@ -1,0 +1,22 @@
+TRAIN SET problems from subfolder generator/rnd_6x5 with random machine order (chosen for the Mad Tea Party example)
+
++++++++++
+instance problem.1
++++++++++
+4 5
+0 26 1 25 2 40 3 15 4 42 
+0 18 1 86 2 86 3 68 4 84 
+0 20 2 59 1 23 3 33 4 96 
+3 40 2 47 0 55 4 13 1 99 
+
+J0 Alice
+J1 March Hare
+J2 Dourmouse
+J4 Mad Hatter
+
+M0 wine/tea
+M1 butter
+M2 haircut
+M3 watch
+M4 say what you mean
+
