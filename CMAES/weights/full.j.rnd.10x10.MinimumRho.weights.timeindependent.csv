@@ -1,0 +1,17 @@
+Type,NrFeat,Model,Feature,mean,Step.1
+Weight,16,1,phi.proc,NA,-0.062354071195478755
+Weight,16,1,phi.startTime,NA,-0.21633315447293003
+Weight,16,1,phi.endTime,NA,-0.09958969315477198
+Weight,16,1,phi.arrival,NA,-0.4953448321935246
+Weight,16,1,phi.wait,NA,-0.46268898286478111
+Weight,16,1,phi.macFree,NA,-0.5231543846765343
+Weight,16,1,phi.makespan,NA,-0.016148308189586791
+Weight,16,1,phi.reducedSlack,NA,0.0845497586585823
+Weight,16,1,phi.macSlack,NA,-0.03637717450279964
+Weight,16,1,phi.allSlack,NA,-0.12269159651700379
+Weight,16,1,phi.jobOps,NA,0.17793133157480082
+Weight,16,1,phi.macOps,NA,-0.23293429296497026
+Weight,16,1,phi.jobWrm,NA,0.30632038187790622
+Weight,16,1,phi.macWrm,NA,0.048832905691111296
+Weight,16,1,phi.jobTotProcTime,NA,0.0021491154017127629
+Weight,16,1,phi.macTotProcTime,NA,-0.018176184805307121
