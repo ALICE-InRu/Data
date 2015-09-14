@@ -25,7 +25,7 @@ f.jc.6x5.test.23,F16.M1,620
 f.jc.6x5.test.24,F16.M1,710
 f.jc.6x5.test.25,F16.M1,677
 f.jc.6x5.test.26,F16.M1,796
-f.jc.6x5.test.27,F16.M1,340
+f.jc.6x5.test.27,F16.M1,330
 f.jc.6x5.test.28,F16.M1,457
 f.jc.6x5.test.29,F16.M1,456
 f.jc.6x5.test.30,F16.M1,666
@@ -58,7 +58,7 @@ f.jc.6x5.test.56,F16.M1,726
 f.jc.6x5.test.57,F16.M1,254
 f.jc.6x5.test.58,F16.M1,434
 f.jc.6x5.test.59,F16.M1,379
-f.jc.6x5.test.60,F16.M1,484
+f.jc.6x5.test.60,F16.M1,466
 f.jc.6x5.test.61,F16.M1,628
 f.jc.6x5.test.62,F16.M1,680
 f.jc.6x5.test.63,F16.M1,729
@@ -177,7 +177,7 @@ f.jc.6x5.test.175,F16.M1,606
 f.jc.6x5.test.176,F16.M1,715
 f.jc.6x5.test.177,F16.M1,772
 f.jc.6x5.test.178,F16.M1,807
-f.jc.6x5.test.179,F16.M1,387
+f.jc.6x5.test.179,F16.M1,371
 f.jc.6x5.test.180,F16.M1,478
 f.jc.6x5.test.181,F16.M1,422
 f.jc.6x5.test.182,F16.M1,570
@@ -308,7 +308,7 @@ f.jc.6x5.test.306,F16.M1,704
 f.jc.6x5.test.307,F16.M1,820
 f.jc.6x5.test.308,F16.M1,352
 f.jc.6x5.test.309,F16.M1,324
-f.jc.6x5.test.310,F16.M1,475
+f.jc.6x5.test.310,F16.M1,449
 f.jc.6x5.test.311,F16.M1,456
 f.jc.6x5.test.312,F16.M1,614
 f.jc.6x5.test.313,F16.M1,709
@@ -360,14 +360,14 @@ f.jc.6x5.test.358,F16.M1,599
 f.jc.6x5.test.359,F16.M1,752
 f.jc.6x5.test.360,F16.M1,702
 f.jc.6x5.test.361,F16.M1,330
-f.jc.6x5.test.362,F16.M1,346
+f.jc.6x5.test.362,F16.M1,339
 f.jc.6x5.test.363,F16.M1,484
 f.jc.6x5.test.364,F16.M1,523
 f.jc.6x5.test.365,F16.M1,590
 f.jc.6x5.test.366,F16.M1,738
 f.jc.6x5.test.367,F16.M1,709
 f.jc.6x5.test.368,F16.M1,844
-f.jc.6x5.test.369,F16.M1,405
+f.jc.6x5.test.369,F16.M1,391
 f.jc.6x5.test.370,F16.M1,486
 f.jc.6x5.test.371,F16.M1,492
 f.jc.6x5.test.372,F16.M1,582
@@ -405,7 +405,7 @@ f.jc.6x5.test.403,F16.M1,668
 f.jc.6x5.test.404,F16.M1,692
 f.jc.6x5.test.405,F16.M1,669
 f.jc.6x5.test.406,F16.M1,751
-f.jc.6x5.test.407,F16.M1,353
+f.jc.6x5.test.407,F16.M1,375
 f.jc.6x5.test.408,F16.M1,362
 f.jc.6x5.test.409,F16.M1,485
 f.jc.6x5.test.410,F16.M1,557
@@ -474,9 +474,9 @@ f.jc.6x5.test.472,F16.M1,654
 f.jc.6x5.test.473,F16.M1,781
 f.jc.6x5.test.474,F16.M1,702
 f.jc.6x5.test.475,F16.M1,860
-f.jc.6x5.test.476,F16.M1,432
+f.jc.6x5.test.476,F16.M1,434
 f.jc.6x5.test.477,F16.M1,529
-f.jc.6x5.test.478,F16.M1,466
+f.jc.6x5.test.478,F16.M1,469
 f.jc.6x5.test.479,F16.M1,574
 f.jc.6x5.test.480,F16.M1,606
 f.jc.6x5.test.481,F16.M1,789

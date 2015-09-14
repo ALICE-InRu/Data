@@ -212,7 +212,7 @@ f.jc.6x5.train.210,F16.M1,525
 f.jc.6x5.train.211,F16.M1,580
 f.jc.6x5.train.212,F16.M1,691
 f.jc.6x5.train.213,F16.M1,665
-f.jc.6x5.train.214,F16.M1,845
+f.jc.6x5.train.214,F16.M1,846
 f.jc.6x5.train.215,F16.M1,307
 f.jc.6x5.train.216,F16.M1,554
 f.jc.6x5.train.217,F16.M1,400
@@ -308,8 +308,8 @@ f.jc.6x5.train.306,F16.M1,406
 f.jc.6x5.train.307,F16.M1,422
 f.jc.6x5.train.308,F16.M1,526
 f.jc.6x5.train.309,F16.M1,625
-f.jc.6x5.train.310,F16.M1,710
-f.jc.6x5.train.311,F16.M1,736
+f.jc.6x5.train.310,F16.M1,655
+f.jc.6x5.train.311,F16.M1,691
 f.jc.6x5.train.312,F16.M1,881
 f.jc.6x5.train.313,F16.M1,247
 f.jc.6x5.train.314,F16.M1,305
@@ -318,7 +318,7 @@ f.jc.6x5.train.316,F16.M1,541
 f.jc.6x5.train.317,F16.M1,617
 f.jc.6x5.train.318,F16.M1,660
 f.jc.6x5.train.319,F16.M1,677
-f.jc.6x5.train.320,F16.M1,826
+f.jc.6x5.train.320,F16.M1,838
 f.jc.6x5.train.321,F16.M1,409
 f.jc.6x5.train.322,F16.M1,356
 f.jc.6x5.train.323,F16.M1,519
@@ -403,7 +403,7 @@ f.jc.6x5.train.401,F16.M1,518
 f.jc.6x5.train.402,F16.M1,689
 f.jc.6x5.train.403,F16.M1,754
 f.jc.6x5.train.404,F16.M1,629
-f.jc.6x5.train.405,F16.M1,265
+f.jc.6x5.train.405,F16.M1,263
 f.jc.6x5.train.406,F16.M1,489
 f.jc.6x5.train.407,F16.M1,535
 f.jc.6x5.train.408,F16.M1,608
@@ -475,10 +475,10 @@ f.jc.6x5.train.473,F16.M1,348
 f.jc.6x5.train.474,F16.M1,388
 f.jc.6x5.train.475,F16.M1,504
 f.jc.6x5.train.476,F16.M1,535
-f.jc.6x5.train.477,F16.M1,724
+f.jc.6x5.train.477,F16.M1,669
 f.jc.6x5.train.478,F16.M1,718
 f.jc.6x5.train.479,F16.M1,680
-f.jc.6x5.train.480,F16.M1,974
+f.jc.6x5.train.480,F16.M1,907
 f.jc.6x5.train.481,F16.M1,398
 f.jc.6x5.train.482,F16.M1,494
 f.jc.6x5.train.483,F16.M1,468
