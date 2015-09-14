@@ -22,7 +22,7 @@ f.rndn.6x5.test.20,F16.M1,498
 f.rndn.6x5.test.21,F16.M1,523
 f.rndn.6x5.test.22,F16.M1,499
 f.rndn.6x5.test.23,F16.M1,519
-f.rndn.6x5.test.24,F16.M1,515
+f.rndn.6x5.test.24,F16.M1,511
 f.rndn.6x5.test.25,F16.M1,512
 f.rndn.6x5.test.26,F16.M1,515
 f.rndn.6x5.test.27,F16.M1,518
@@ -152,7 +152,7 @@ f.rndn.6x5.test.150,F16.M1,512
 f.rndn.6x5.test.151,F16.M1,504
 f.rndn.6x5.test.152,F16.M1,518
 f.rndn.6x5.test.153,F16.M1,501
-f.rndn.6x5.test.154,F16.M1,516
+f.rndn.6x5.test.154,F16.M1,514
 f.rndn.6x5.test.155,F16.M1,511
 f.rndn.6x5.test.156,F16.M1,502
 f.rndn.6x5.test.157,F16.M1,506
@@ -439,8 +439,8 @@ f.rndn.6x5.test.437,F16.M1,501
 f.rndn.6x5.test.438,F16.M1,513
 f.rndn.6x5.test.439,F16.M1,514
 f.rndn.6x5.test.440,F16.M1,507
-f.rndn.6x5.test.441,F16.M1,523
-f.rndn.6x5.test.442,F16.M1,511
+f.rndn.6x5.test.441,F16.M1,525
+f.rndn.6x5.test.442,F16.M1,506
 f.rndn.6x5.test.443,F16.M1,516
 f.rndn.6x5.test.444,F16.M1,497
 f.rndn.6x5.test.445,F16.M1,496
@@ -498,4 +498,4 @@ f.rndn.6x5.test.496,F16.M1,530
 f.rndn.6x5.test.497,F16.M1,521
 f.rndn.6x5.test.498,F16.M1,518
 f.rndn.6x5.test.499,F16.M1,507
-f.rndn.6x5.test.500,F16.M1,517
+f.rndn.6x5.test.500,F16.M1,519

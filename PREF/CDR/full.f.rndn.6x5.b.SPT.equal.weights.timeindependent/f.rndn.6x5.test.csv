@@ -22,7 +22,7 @@ f.rndn.6x5.test.20,F16.M1,506
 f.rndn.6x5.test.21,F16.M1,523
 f.rndn.6x5.test.22,F16.M1,499
 f.rndn.6x5.test.23,F16.M1,520
-f.rndn.6x5.test.24,F16.M1,513
+f.rndn.6x5.test.24,F16.M1,511
 f.rndn.6x5.test.25,F16.M1,512
 f.rndn.6x5.test.26,F16.M1,515
 f.rndn.6x5.test.27,F16.M1,518
@@ -67,7 +67,7 @@ f.rndn.6x5.test.65,F16.M1,505
 f.rndn.6x5.test.66,F16.M1,505
 f.rndn.6x5.test.67,F16.M1,504
 f.rndn.6x5.test.68,F16.M1,512
-f.rndn.6x5.test.69,F16.M1,519
+f.rndn.6x5.test.69,F16.M1,516
 f.rndn.6x5.test.70,F16.M1,506
 f.rndn.6x5.test.71,F16.M1,513
 f.rndn.6x5.test.72,F16.M1,509
@@ -159,7 +159,7 @@ f.rndn.6x5.test.157,F16.M1,506
 f.rndn.6x5.test.158,F16.M1,510
 f.rndn.6x5.test.159,F16.M1,509
 f.rndn.6x5.test.160,F16.M1,504
-f.rndn.6x5.test.161,F16.M1,521
+f.rndn.6x5.test.161,F16.M1,514
 f.rndn.6x5.test.162,F16.M1,521
 f.rndn.6x5.test.163,F16.M1,497
 f.rndn.6x5.test.164,F16.M1,513
@@ -167,7 +167,7 @@ f.rndn.6x5.test.165,F16.M1,510
 f.rndn.6x5.test.166,F16.M1,499
 f.rndn.6x5.test.167,F16.M1,511
 f.rndn.6x5.test.168,F16.M1,507
-f.rndn.6x5.test.169,F16.M1,515
+f.rndn.6x5.test.169,F16.M1,517
 f.rndn.6x5.test.170,F16.M1,516
 f.rndn.6x5.test.171,F16.M1,509
 f.rndn.6x5.test.172,F16.M1,519
@@ -180,7 +180,7 @@ f.rndn.6x5.test.178,F16.M1,510
 f.rndn.6x5.test.179,F16.M1,513
 f.rndn.6x5.test.180,F16.M1,504
 f.rndn.6x5.test.181,F16.M1,509
-f.rndn.6x5.test.182,F16.M1,503
+f.rndn.6x5.test.182,F16.M1,510
 f.rndn.6x5.test.183,F16.M1,498
 f.rndn.6x5.test.184,F16.M1,511
 f.rndn.6x5.test.185,F16.M1,507
@@ -235,11 +235,11 @@ f.rndn.6x5.test.233,F16.M1,510
 f.rndn.6x5.test.234,F16.M1,508
 f.rndn.6x5.test.235,F16.M1,527
 f.rndn.6x5.test.236,F16.M1,508
-f.rndn.6x5.test.237,F16.M1,518
+f.rndn.6x5.test.237,F16.M1,514
 f.rndn.6x5.test.238,F16.M1,518
 f.rndn.6x5.test.239,F16.M1,509
 f.rndn.6x5.test.240,F16.M1,511
-f.rndn.6x5.test.241,F16.M1,496
+f.rndn.6x5.test.241,F16.M1,503
 f.rndn.6x5.test.242,F16.M1,515
 f.rndn.6x5.test.243,F16.M1,501
 f.rndn.6x5.test.244,F16.M1,502
@@ -287,7 +287,7 @@ f.rndn.6x5.test.285,F16.M1,510
 f.rndn.6x5.test.286,F16.M1,512
 f.rndn.6x5.test.287,F16.M1,509
 f.rndn.6x5.test.288,F16.M1,512
-f.rndn.6x5.test.289,F16.M1,522
+f.rndn.6x5.test.289,F16.M1,520
 f.rndn.6x5.test.290,F16.M1,510
 f.rndn.6x5.test.291,F16.M1,509
 f.rndn.6x5.test.292,F16.M1,507
@@ -354,7 +354,7 @@ f.rndn.6x5.test.352,F16.M1,522
 f.rndn.6x5.test.353,F16.M1,506
 f.rndn.6x5.test.354,F16.M1,517
 f.rndn.6x5.test.355,F16.M1,504
-f.rndn.6x5.test.356,F16.M1,502
+f.rndn.6x5.test.356,F16.M1,501
 f.rndn.6x5.test.357,F16.M1,513
 f.rndn.6x5.test.358,F16.M1,501
 f.rndn.6x5.test.359,F16.M1,516
@@ -377,7 +377,7 @@ f.rndn.6x5.test.375,F16.M1,513
 f.rndn.6x5.test.376,F16.M1,512
 f.rndn.6x5.test.377,F16.M1,510
 f.rndn.6x5.test.378,F16.M1,518
-f.rndn.6x5.test.379,F16.M1,518
+f.rndn.6x5.test.379,F16.M1,517
 f.rndn.6x5.test.380,F16.M1,515
 f.rndn.6x5.test.381,F16.M1,518
 f.rndn.6x5.test.382,F16.M1,507
@@ -435,12 +435,12 @@ f.rndn.6x5.test.433,F16.M1,521
 f.rndn.6x5.test.434,F16.M1,503
 f.rndn.6x5.test.435,F16.M1,513
 f.rndn.6x5.test.436,F16.M1,522
-f.rndn.6x5.test.437,F16.M1,502
+f.rndn.6x5.test.437,F16.M1,505
 f.rndn.6x5.test.438,F16.M1,518
 f.rndn.6x5.test.439,F16.M1,514
 f.rndn.6x5.test.440,F16.M1,507
 f.rndn.6x5.test.441,F16.M1,523
-f.rndn.6x5.test.442,F16.M1,510
+f.rndn.6x5.test.442,F16.M1,505
 f.rndn.6x5.test.443,F16.M1,516
 f.rndn.6x5.test.444,F16.M1,497
 f.rndn.6x5.test.445,F16.M1,496
@@ -498,4 +498,4 @@ f.rndn.6x5.test.496,F16.M1,524
 f.rndn.6x5.test.497,F16.M1,519
 f.rndn.6x5.test.498,F16.M1,515
 f.rndn.6x5.test.499,F16.M1,507
-f.rndn.6x5.test.500,F16.M1,513
+f.rndn.6x5.test.500,F16.M1,515
