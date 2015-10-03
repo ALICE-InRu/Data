@@ -1,5 +1,13 @@
 Name,CDR,Makespan,BestFoundMakespan
 jsp.orlib.test.1,F24.M1,1265,1262
+jsp.orlib.test.2,F24.M1,977,966
+jsp.orlib.test.3,F24.M1,729,725
+jsp.orlib.test.4,F24.M1,766,766
+jsp.orlib.test.5,F24.M1,764,754
+jsp.orlib.test.6,F24.M1,58,56
+jsp.orlib.test.7,F24.M1,1075,1067
+jsp.orlib.test.8,F24.M1,1228,1228
+jsp.orlib.test.9,F24.M1,680,673
 jsp.orlib.test.10,F24.M1,645,641
 jsp.orlib.test.11,F24.M1,644,635
 jsp.orlib.test.12,F24.M1,611,611
@@ -10,7 +18,6 @@ jsp.orlib.test.16,F24.M1,958,952
 jsp.orlib.test.17,F24.M1,917,910
 jsp.orlib.test.18,F24.M1,963,963
 jsp.orlib.test.19,F24.M1,1181,1172
-jsp.orlib.test.2,F24.M1,977,966
 jsp.orlib.test.20,F24.M1,1039,1039
 jsp.orlib.test.21,F24.M1,1240,1232
 jsp.orlib.test.22,F24.M1,1274,1255
@@ -21,7 +28,6 @@ jsp.orlib.test.26,F24.M1,915,895
 jsp.orlib.test.27,F24.M1,910,903
 jsp.orlib.test.28,F24.M1,871,865
 jsp.orlib.test.29,F24.M1,1207,1192
-jsp.orlib.test.3,F24.M1,729,725
 jsp.orlib.test.30,F24.M1,1072,1049
 jsp.orlib.test.31,F24.M1,1141,1126
 jsp.orlib.test.32,F24.M1,1031,1031
@@ -32,7 +38,6 @@ jsp.orlib.test.36,F24.M1,1300,1291
 jsp.orlib.test.37,F24.M1,1362,1309
 jsp.orlib.test.38,F24.M1,1410,1402
 jsp.orlib.test.39,F24.M1,1849,1766
-jsp.orlib.test.4,F24.M1,766,766
 jsp.orlib.test.40,F24.M1,2003,1978
 jsp.orlib.test.41,F24.M1,1922,1857
 jsp.orlib.test.42,F24.M1,1793,1793
@@ -43,7 +48,6 @@ jsp.orlib.test.46,F24.M1,1330,1300
 jsp.orlib.test.47,F24.M1,1325,1316
 jsp.orlib.test.48,F24.M1,1362,1336
 jsp.orlib.test.49,F24.M1,1116,1115
-jsp.orlib.test.5,F24.M1,764,754
 jsp.orlib.test.50,F24.M1,944,933
 jsp.orlib.test.51,F24.M1,1186,1161
 jsp.orlib.test.52,F24.M1,1105,1105
@@ -54,7 +58,6 @@ jsp.orlib.test.56,F24.M1,956,951
 jsp.orlib.test.57,F24.M1,1033,1010
 jsp.orlib.test.58,F24.M1,1036,1025
 jsp.orlib.test.59,F24.M1,1617,1617
-jsp.orlib.test.6,F24.M1,58,56
 jsp.orlib.test.60,F24.M1,1698,1676
 jsp.orlib.test.61,F24.M1,1637,1615
 jsp.orlib.test.62,F24.M1,1762,1743
@@ -65,7 +68,6 @@ jsp.orlib.test.66,F24.M1,2207,2207
 jsp.orlib.test.67,F24.M1,1920,1920
 jsp.orlib.test.68,F24.M1,2117,2113
 jsp.orlib.test.69,F24.M1,3531,3505
-jsp.orlib.test.7,F24.M1,1075,1067
 jsp.orlib.test.70,F24.M1,3555,3540
 jsp.orlib.test.71,F24.M1,3754,3701
 jsp.orlib.test.72,F24.M1,3518,3450
@@ -76,8 +78,6 @@ jsp.orlib.test.76,F24.M1,3216,2952
 jsp.orlib.test.77,F24.M1,3142,3001
 jsp.orlib.test.78,F24.M1,3057,2790
 jsp.orlib.test.79,F24.M1,1006,999
-jsp.orlib.test.8,F24.M1,1228,1228
 jsp.orlib.test.80,F24.M1,1019,1009
 jsp.orlib.test.81,F24.M1,1036,1035
 jsp.orlib.test.82,F24.M1,1105,1102
-jsp.orlib.test.9,F24.M1,680,673
