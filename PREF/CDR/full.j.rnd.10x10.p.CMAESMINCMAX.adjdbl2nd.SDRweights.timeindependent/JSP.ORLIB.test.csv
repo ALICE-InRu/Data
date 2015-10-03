@@ -1,13 +1,5 @@
 Name,CDR,Makespan,BestFoundMakespan
 jsp.orlib.test.1,F20.M1,1354,1341
-jsp.orlib.test.2,F20.M1,1048,1045
-jsp.orlib.test.3,F20.M1,764,764
-jsp.orlib.test.4,F20.M1,778,756
-jsp.orlib.test.5,F20.M1,762,759
-jsp.orlib.test.6,F20.M1,58,58
-jsp.orlib.test.7,F20.M1,1179,1172
-jsp.orlib.test.8,F20.M1,1294,1271
-jsp.orlib.test.9,F20.M1,681,681
 jsp.orlib.test.10,F20.M1,697,675
 jsp.orlib.test.11,F20.M1,723,692
 jsp.orlib.test.12,F20.M1,611,611
@@ -18,6 +10,7 @@ jsp.orlib.test.16,F20.M1,945,941
 jsp.orlib.test.17,F20.M1,953,917
 jsp.orlib.test.18,F20.M1,969,959
 jsp.orlib.test.19,F20.M1,1258,1245
+jsp.orlib.test.2,F20.M1,1048,1045
 jsp.orlib.test.20,F20.M1,1045,1039
 jsp.orlib.test.21,F20.M1,1250,1237
 jsp.orlib.test.22,F20.M1,1276,1255
@@ -28,6 +21,7 @@ jsp.orlib.test.26,F20.M1,974,971
 jsp.orlib.test.27,F20.M1,937,930
 jsp.orlib.test.28,F20.M1,957,939
 jsp.orlib.test.29,F20.M1,1322,1292
+jsp.orlib.test.3,F20.M1,764,764
 jsp.orlib.test.30,F20.M1,1092,1089
 jsp.orlib.test.31,F20.M1,1168,1166
 jsp.orlib.test.32,F20.M1,1086,1086
@@ -38,6 +32,7 @@ jsp.orlib.test.36,F20.M1,1367,1322
 jsp.orlib.test.37,F20.M1,1448,1412
 jsp.orlib.test.38,F20.M1,1418,1383
 jsp.orlib.test.39,F20.M1,1805,1789
+jsp.orlib.test.4,F20.M1,778,756
 jsp.orlib.test.40,F20.M1,2252,2189
 jsp.orlib.test.41,F20.M1,1992,1852
 jsp.orlib.test.42,F20.M1,1976,1849
@@ -48,6 +43,7 @@ jsp.orlib.test.46,F20.M1,1391,1380
 jsp.orlib.test.47,F20.M1,1360,1345
 jsp.orlib.test.48,F20.M1,1371,1354
 jsp.orlib.test.49,F20.M1,1312,1255
+jsp.orlib.test.5,F20.M1,762,759
 jsp.orlib.test.50,F20.M1,943,943
 jsp.orlib.test.51,F20.M1,1220,1220
 jsp.orlib.test.52,F20.M1,1171,1166
@@ -58,6 +54,7 @@ jsp.orlib.test.56,F20.M1,1146,1122
 jsp.orlib.test.57,F20.M1,1061,1037
 jsp.orlib.test.58,F20.M1,1129,1129
 jsp.orlib.test.59,F20.M1,1832,1791
+jsp.orlib.test.6,F20.M1,58,58
 jsp.orlib.test.60,F20.M1,1792,1732
 jsp.orlib.test.61,F20.M1,1678,1663
 jsp.orlib.test.62,F20.M1,1858,1818
@@ -68,6 +65,7 @@ jsp.orlib.test.66,F20.M1,2240,2203
 jsp.orlib.test.67,F20.M1,2150,2120
 jsp.orlib.test.68,F20.M1,2296,2296
 jsp.orlib.test.69,F20.M1,4161,3951
+jsp.orlib.test.7,F20.M1,1179,1172
 jsp.orlib.test.70,F20.M1,4046,3823
 jsp.orlib.test.71,F20.M1,4127,3951
 jsp.orlib.test.72,F20.M1,3709,3584
@@ -78,10 +76,8 @@ jsp.orlib.test.76,F20.M1,3487,2956
 jsp.orlib.test.77,F20.M1,3242,3001
 jsp.orlib.test.78,F20.M1,3186,2790
 jsp.orlib.test.79,F20.M1,1024,1024
+jsp.orlib.test.8,F20.M1,1294,1271
 jsp.orlib.test.80,F20.M1,1082,1068
 jsp.orlib.test.81,F20.M1,1101,1097
 jsp.orlib.test.82,F20.M1,1192,1192
-jsp.orlib.test.79,F20.M1,1024,1024
-jsp.orlib.test.80,F20.M1,1082,1068
-jsp.orlib.test.81,F20.M1,1101,1097
-jsp.orlib.test.82,F20.M1,1192,1192
+jsp.orlib.test.9,F20.M1,681,681
